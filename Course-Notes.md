@@ -1,7 +1,7 @@
 
-###Chapter 2
+**Chapter 2**
 
-# Introspection
+#Introspection
 Using a question mark (?) before or after a variable will display some general infor‐
 mation about the object:
 In [8]: b = [1, 2, 3]
@@ -91,7 +91,7 @@ elif x == 0:
 else:
  print('positive!')
 
- ###Chapter 3
+**Chapter 3**
  
  A tuple is a fixed-length, immutable sequence of Python objects. The easiest way to
 create one is with a comma-separated sequence of values:
