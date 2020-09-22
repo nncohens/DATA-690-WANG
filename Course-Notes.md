@@ -115,4 +115,8 @@ In [62]: a.sort()
 In [63]: a
 Out[63]: [1, 2, 3, 5, 7]
 
+ ##How to Split based on a delimiter
+ if a deliminater is "\t" split it like below
  
+ data_elements = second_line.split("\t")  you are renaming second_line to data_elements and spliting second_line each time there is a tab(\t)
+ data_elements                             print
